@@ -1,16 +1,19 @@
-## Hi there 👋
+# 皆さん、こんにちは
+ITエンジニアとして、アプリケーションを開発しています。
 
-<!--
-**oharuka27/oharuka27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Certifications
 
-Here are some ideas to get you started:
+<a href="[AWSバッジの公開URL](https://www.credly.com/badges/70ba4e94-d601-4cba-bc75-a1ebc30dd9e3/public_url)">
+  <img
+    src="./assets/aws-certified-cloud-practitioner.png"
+    alt="AWS Certified Cloud Practitioner"
+    width="140"
+  />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- TypeScript / React
+- Python / Django
+- AWS / Cloudflare
+- Docker
